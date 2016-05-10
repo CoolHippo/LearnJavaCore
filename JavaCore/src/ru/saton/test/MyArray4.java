@@ -1,4 +1,4 @@
-package Test;
+package ru.saton.test;
 
 public class MyArray4 {
     public static void main(String[] args) {
